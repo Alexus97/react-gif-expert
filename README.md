@@ -1,4 +1,6 @@
-# Gif-Expert
+# Gif-Expert-App
+Este es mi repositorio del proyecto GifExpertApp de react.
+
 # React + Vite
 
 
